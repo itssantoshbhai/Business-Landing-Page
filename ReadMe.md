@@ -3,7 +3,7 @@
 ## This is Project-12
 
 Live Link 🔗
-https://hostinglandingpage-11.netlify.app/
+https://businesslandingpage-pr-12.netlify.app/
 
 ## SNAP
 
